@@ -1,0 +1,475 @@
+BootCamp
+
+001-04272
+2020-10-14 19:17:31 +0000
+iMac20,1
+iMac20,2
+https://swcdn.apple.com/content/downloads/10/11/001-04272/up3eig0wm5slvensvxyem836jceudix2vz/BootCampESD.pkg
+
+002-34411
+2022-03-14 20:05:36 +0000
+MacPro7,1
+https://swcdn.apple.com/content/downloads/48/55/002-34411-A_GQNVCB6UOC/m67xlo3dipbdxmdeeocd39hmxka5o9dg2k/BootCampESD.pkg
+
+041-84708
+2019-10-16 22:15:07 +0000
+MacBook2,1
+MacBook3,1
+MacBook4,1
+MacBook5,1
+MacBook5,2
+MacBook5,3
+MacBook6,1
+MacBook7,1
+MacBookAir1,1
+MacBookAir2,1
+MacBookAir3,1
+MacBookAir3,2
+MacBookPro2,1
+MacBookPro2,2
+MacBookPro3,1
+MacBookPro4,1
+MacBookPro5,1
+MacBookPro5,2
+MacBookPro5,3
+MacBookPro5,4
+MacBookPro5,5
+MacBookPro6,1
+MacBookPro6,2
+MacBookPro7,1
+MacBookPro8,1
+MacBookPro8,2
+MacBookPro8,3
+MacPro1,1
+MacPro2,1
+MacPro3,1
+MacPro4,1
+MacPro5,1
+Macmini2,1
+Macmini3,1
+Macmini4,1
+iMac5,1
+iMac6,1
+iMac7,1
+iMac8,1
+iMac9,1
+iMac10,1
+iMac11,1
+iMac11,2
+iMac11,3
+iMac12,1
+iMac12,2
+https://swcdn.apple.com/content/downloads/04/44/041-84708/yq9w47gthzu8e8fqmad6hx0vs15fuk4540/BootCampESD.pkg
+
+041-84821
+2019-10-22 15:58:14 +0000
+MacBookAir4,1
+MacBookAir4,2
+MacBookAir5,1
+MacBookAir5,2
+MacBookPro6,1
+MacBookPro6,2
+MacBookPro8,1
+MacBookPro8,2
+MacBookPro8,3
+MacBookPro9,1
+MacBookPro9,2
+MacBookPro10,1
+MacBookPro10,2
+MacPro4,1
+MacPro5,1
+Macmini5,1
+Macmini5,2
+Macmini5,3
+Macmini6,1
+Macmini6,2
+iMac11,3
+iMac12,1
+iMac12,2
+iMac13,1
+iMac13,2
+iMac13,3
+https://swcdn.apple.com/content/downloads/26/08/041-84821-A_AMCFPC3QDK/4fffs8qgdflw7pn1finqqd40gifh41mvs6/BootCampESD.pkg
+
+041-84859
+2019-10-22 15:58:16 +0000
+MacBookAir4,1
+MacBookAir4,2
+Macmini5,1
+Macmini5,2
+Macmini5,3
+https://swcdn.apple.com/content/downloads/29/62/041-84859-A_GGUOSJMIGN/sb1apxcjpp358ze2df6bzhwd49m2cqyzy5/BootCampESD.pkg
+
+041-84868
+2019-10-22 15:58:15 +0000
+MacBook2,1
+MacBook3,1
+MacBook4,1
+MacBook5,1
+MacBook5,2
+MacBook5,3
+MacBook6,1
+MacBook7,1
+MacBookAir1,1
+MacBookAir2,1
+MacBookAir3,1
+MacBookAir3,2
+MacBookPro2,1
+MacBookPro2,2
+MacBookPro3,1
+MacBookPro4,1
+MacBookPro5,1
+MacBookPro5,2
+MacBookPro5,3
+MacBookPro5,4
+MacBookPro5,5
+MacBookPro6,1
+MacBookPro6,2
+MacBookPro7,1
+MacBookPro8,1
+MacBookPro8,2
+MacBookPro8,3
+MacPro1,1
+MacPro2,1
+MacPro3,1
+MacPro4,1
+MacPro5,1
+Macmini2,1
+Macmini3,1
+Macmini4,1
+iMac5,1
+iMac6,1
+iMac7,1
+iMac8,1
+iMac9,1
+iMac10,1
+iMac11,1
+iMac11,2
+iMac11,3
+iMac12,1
+iMac12,2
+https://swcdn.apple.com/content/downloads/57/55/041-84868-A_402D0DFI39/6uz8hhgtd4b87t00mrq0uihiop5ivumsbk/BootCampESD.pkg
+
+041-84869
+2019-10-22 15:58:17 +0000
+MacBookPro10,1
+MacBookAir5,1
+MacBookAir5,2
+https://swcdn.apple.com/content/downloads/50/29/041-84869-A_EJ35WAWA75/obofx71e3kcf8aqzukdrzg7hqpv1p06hca/BootCampESD.pkg
+
+041-84890
+2020-03-18 20:19:42 +0000
+MacBookAir9,1
+https://swcdn.apple.com/content/downloads/16/33/041-84890/kj5efmjgugmbrx9lknsl7ab6ray0ctwf5o/BootCampESD.pkg
+
+041-87995
+2019-10-14 20:21:13 +0000
+Macmini6,1
+Macmini6,2
+MacBookPro10,2
+iMac13,1
+iMac13,2
+https://swcdn.apple.com/content/downloads/35/46/041-87995-A_EWCD1K4CH1/2b5jaj1p2oxqlpzgwat4bdqjpjs8n3mxip/BootCampESD.pkg
+
+041-88148
+2019-10-16 01:57:02 +0000
+MacBook9,1
+https://swcdn.apple.com/content/downloads/35/26/041-88148-A_FV1FQ1MLRG/qyueop2fculv8o6ybt2oq266qo98pqphb9/BootCampESD.pkg
+
+041-88396
+2019-10-13 00:08:41 +0000
+MacBook9,1
+https://swcdn.apple.com/content/downloads/53/33/041-88396-A_YLDCG32JBG/ehs3p0jphqr5sfk0wh15gqxkua7nndzk8u/BootCampESD.pkg
+
+041-88430
+2019-10-10 20:42:39 +0000
+iMac16,1
+iMac16,2
+iMac17,1
+https://swcdn.apple.com/content/downloads/24/21/041-88430-A_MH044N1M88/l1tfz2ccakcy7ko79ugzcw0naadra581o3/BootCampESD.pkg
+
+041-88436
+2019-10-10 20:47:55 +0000
+MacBook8,1
+https://swcdn.apple.com/content/downloads/63/48/041-88436-A_A9JD5TGYOC/9qwbctjgtpqblqv40gl7uwf625j5pe796i/BootCampESD.pkg
+
+041-88734
+2019-10-13 02:25:21 +0000
+MacBookPro13,1
+MacBookPro13,2
+https://swcdn.apple.com/content/downloads/28/47/041-88734-A_Q0SKN07BL0/7knxzec1xmojr5x5t7xnu5a4u6lslmlf9v/BootCampESD.pkg
+
+041-88735
+2019-10-13 02:44:16 +0000
+iMac18,1
+https://swcdn.apple.com/content/downloads/53/06/041-88735-A_5MC8H30E1T/uzofvyg87dqhkn2qh1ipxy4f1uxduhitsb/BootCampESD.pkg
+
+041-88737
+2019-10-13 02:25:47 +0000
+MacBookPro13,3
+https://swcdn.apple.com/content/downloads/25/38/041-88737-A_IXJZSM8OLV/fq3xy3duoq3xqp9o2sa8dkjtz5wvjaojhq/BootCampESD.pkg
+
+041-88748
+2019-10-13 02:49:43 +0000
+MacBookPro15,3
+https://swcdn.apple.com/content/downloads/24/61/041-88748/z2zwt4m9xtxt5sf64w9v5bz760cohxc2jc/BootCampESD.pkg
+
+041-89042
+2019-10-14 01:56:19 +0000
+MacBook10,1
+MacBookPro14,1
+MacBookPro14,2
+https://swcdn.apple.com/content/downloads/32/09/041-89042-A_XVZ2U8XKG2/06ub1qfep6wv3g8bb68smwt3ac25xyng83/BootCampESD.pkg
+
+041-89072
+2019-10-14 01:56:00 +0000
+MacBookPro14,3
+https://swcdn.apple.com/content/downloads/47/29/041-89072-A_HZY5QI4LGV/knck1r3qmsw9nliisjjm7vll0zv1u239eu/BootCampESD.pkg
+
+041-91731
+2019-10-14 21:15:11 +0000
+Macmini8,1
+https://swcdn.apple.com/content/downloads/23/15/041-91731-A_LBI7Q8UWOG/juk1ng0hm623gxh3jv4qxt190ga1h5p0lw/BootCampESD.pkg
+
+041-91736
+2019-10-09 19:43:09 +0000
+MacBookAir8,1
+https://swcdn.apple.com/content/downloads/26/37/041-91736-A_6XKJ6AQL4K/9qene91xdcr1ytzik312zjmbaxyujy0p7j/BootCampESD.pkg
+
+041-91737
+2019-10-09 19:40:56 +0000
+MacBookPro15,1
+MacBookPro15,2
+https://swcdn.apple.com/content/downloads/24/46/041-91737-A_KOBGOTCIEZ/0b9gnebg3ivdfsd79simxpr60vvx9sy31k/BootCampESD.pkg
+
+041-96204
+2020-06-15 21:49:35 +0000
+MacBookPro16,4
+https://swcdn.apple.com/content/downloads/08/36/041-96204/w1q0ukl3x12fbeee41ex7lgjt82h7zrdn4/BootCampESD.pkg
+
+041-98143
+2019-10-10 20:43:24 +0000
+MacBook8,1
+MacBookAir5,1
+MacBookAir5,2
+MacBookAir6,1
+MacBookAir6,2
+MacBookAir7,1
+MacBookAir7,2
+MacBookPro9,1
+MacBookPro9,2
+MacBookPro10,1
+MacBookPro10,2
+MacBookPro11,1
+MacBookPro11,2
+MacBookPro11,3
+MacBookPro11,4
+MacBookPro11,5
+MacBookPro12,1
+MacPro6,1
+Macmini6,1
+Macmini6,2
+Macmini7,1
+iMac13,1
+iMac13,2
+iMac13,3
+iMac14,1
+iMac14,2
+iMac14,3
+iMac14,4
+iMac15,1
+https://swcdn.apple.com/content/downloads/62/58/041-98143-A_HN8B941A1T/nknv1gt3xcgylggwc11kl5e0j4296tjfo1/BootCampESD.pkg
+
+061-26565
+2019-10-16 02:21:27 +0000
+MacBookPro15,4
+https://swcdn.apple.com/content/downloads/41/45/061-26565-A_30YFW2NOY7/mcryv1yqxl8bmiok36kl4tiycf3g72uda5/BootCampESD.pkg
+
+061-26579
+2019-10-14 18:16:50 +0000
+MacBookAir8,2
+https://swcdn.apple.com/content/downloads/52/10/061-26579-A_7RJL96VW4I/z662ygc05hfe7cukb3itfbc8i1j7boxu95/BootCampESD.pkg
+
+061-51481
+2020-05-04 21:31:59 +0000
+MacBookPro16,3
+MacBookPro16,2
+https://swcdn.apple.com/content/downloads/31/36/061-51481/6jxbd689uscmpm1bhsu9kv05kpthc2rdui/BootCampESD.pkg
+
+061-62383
+2020-01-08 18:00:39 +0000
+MacBookPro16,1
+https://swcdn.apple.com/content/downloads/57/59/061-62383/5cwdopr0f0k6f3lqzb6j3ecnjx2ok9fdiw/BootCampESD.pkg
+
+061-97204
+2020-04-16 17:03:28 +0000
+iMacPro1,1
+iMac19,1
+iMac19,2
+iMac18,2
+iMac18,3
+https://swcdn.apple.com/content/downloads/48/61/061-97204/zjcotww2iqibyvy6wbx3q9d50ca4lhig85/BootCampESD.pkg
+
+
+InstallESDDmg
+
+001-04366
+2020-05-04 15:32:04 +0000
+macOS Catalina 10.15.4 19E2269
+https://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/RecoveryHDMetaDmg.pkg
+
+001-15219
+2020-06-15 18:52:41 +0000
+macOS Catalina 10.15.5 19F2200
+https://swcdn.apple.com/content/downloads/59/18/001-15219-A_EE9FN7UHJA/efuz3h0zlmx4qlinf4bxlguigo9jvhcr55/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/59/18/001-15219-A_EE9FN7UHJA/efuz3h0zlmx4qlinf4bxlguigo9jvhcr55/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/59/18/001-15219-A_EE9FN7UHJA/efuz3h0zlmx4qlinf4bxlguigo9jvhcr55/RecoveryHDMetaDmg.pkg
+
+001-36735
+2020-08-06 23:39:24 +0000
+macOS Catalina 10.15.6 19G2006
+https://swcdn.apple.com/content/downloads/23/45/001-36735-A_IRCLJ5YYKF/z8vka6xfykydycui5b7atpc52btxmbffdn/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/23/45/001-36735-A_IRCLJ5YYKF/z8vka6xfykydycui5b7atpc52btxmbffdn/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/23/45/001-36735-A_IRCLJ5YYKF/z8vka6xfykydycui5b7atpc52btxmbffdn/RecoveryHDMetaDmg.pkg
+
+001-36801
+2020-08-12 20:04:02 +0000
+macOS Catalina 10.15.6 19G2021
+https://swcdn.apple.com/content/downloads/10/06/001-36801-A_9MBEQ97Z9M/672a1q4u8978ize3s15ygivp2dqwmk10qb/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/10/06/001-36801-A_9MBEQ97Z9M/672a1q4u8978ize3s15ygivp2dqwmk10qb/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/10/06/001-36801-A_9MBEQ97Z9M/672a1q4u8978ize3s15ygivp2dqwmk10qb/RecoveryHDMetaDmg.pkg
+
+001-51042
+2020-09-24 17:09:31 +0000
+macOS Catalina 10.15.7 19H2
+https://swcdn.apple.com/content/downloads/20/55/001-51042-A_2EJTJOSUC2/rsvf13iphg5lvcqcysqcarv8cvddq8igek/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/20/55/001-51042-A_2EJTJOSUC2/rsvf13iphg5lvcqcysqcarv8cvddq8igek/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/20/55/001-51042-A_2EJTJOSUC2/rsvf13iphg5lvcqcysqcarv8cvddq8igek/RecoveryHDMetaDmg.pkg
+
+001-57224
+2020-10-27 17:28:13 +0000
+macOS Catalina 10.15.7 19H4
+https://swcdn.apple.com/content/downloads/61/24/001-57224/0o1xetys5n505gocjsil5qo0p4kg939elb/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/61/24/001-57224/0o1xetys5n505gocjsil5qo0p4kg939elb/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/61/24/001-57224/0o1xetys5n505gocjsil5qo0p4kg939elb/RecoveryHDMetaDmg.pkg
+
+001-68446
+2020-11-11 17:48:09 +0000
+macOS Catalina 10.15.7 19H15
+https://swcdn.apple.com/content/downloads/26/37/001-68446/r1dbqtmf3mtpikjnd04cq31p4jk91dceh8/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/26/37/001-68446/r1dbqtmf3mtpikjnd04cq31p4jk91dceh8/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/26/37/001-68446/r1dbqtmf3mtpikjnd04cq31p4jk91dceh8/RecoveryHDMetaDmg.pkg
+
+041-88800
+2019-10-23 14:41:18 +0000
+macOS Mojave 10.14.4 18E2034
+https://swcdn.apple.com/content/downloads/34/54/041-88800-A_HLMBDM42FL/anrmoj880qkj0lbybqm0c3830p70nawjrv/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/34/54/041-88800-A_HLMBDM42FL/anrmoj880qkj0lbybqm0c3830p70nawjrv/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/34/54/041-88800-A_HLMBDM42FL/anrmoj880qkj0lbybqm0c3830p70nawjrv/RecoveryHDMetaDmg.pkg
+
+041-90855
+2019-10-23 14:41:18 +0000
+Install macOS High Sierra Beta 10.13.5 17F66a
+https://swcdn.apple.com/content/downloads/08/44/041-90855-A_452WLVQACP/mzfvoi59bljh3w4w4lvwenfk0r1a2f7212/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/08/44/041-90855-A_452WLVQACP/mzfvoi59bljh3w4w4lvwenfk0r1a2f7212/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/08/44/041-90855-A_452WLVQACP/mzfvoi59bljh3w4w4lvwenfk0r1a2f7212/RecoveryHDMetaDmg.pkg
+
+041-91758
+2019-10-19 18:19:55 +0000
+macOS High Sierra 10.13.6 17G66
+https://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/RecoveryHDMetaDmg.pkg
+
+042-45246
+2023-09-11 17:15:11 +0000
+macOS Big Sur 11.7.10 20G1427
+https://swcdn.apple.com/content/downloads/14/38/042-45246-A_NLFOFLCJFZ/jk992zbv98sdzz3rgc7mrccjl3l22ruk1c/InstallAssistant.pkg
+
+052-60131
+2024-03-18 17:11:48 +0000
+macOS Monterey 12.7.4 21H1123
+https://swcdn.apple.com/content/downloads/46/57/052-60131-A_KM2RH04C2D/9yzvba1uvpem2wuo95r459qno57qaizwf2/InstallAssistant.pkg
+
+061-26578
+2019-10-14 20:38:26 +0000
+macOS Mojave 10.14.5 18F2059
+https://swcdn.apple.com/content/downloads/41/23/061-26578-A_FF0C6M87LS/ylvl0phx6uy3i444qt9p57n8wz0xnylmd9/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/41/23/061-26578-A_FF0C6M87LS/ylvl0phx6uy3i444qt9p57n8wz0xnylmd9/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/41/23/061-26578-A_FF0C6M87LS/ylvl0phx6uy3i444qt9p57n8wz0xnylmd9/RecoveryHDMetaDmg.pkg
+
+061-26589
+2019-10-14 20:51:08 +0000
+macOS Mojave 10.14.6 18G103
+https://swcdn.apple.com/content/downloads/17/32/061-26589-A_8GJTCGY9PC/25fhcu905eta7wau7aoafu8rvdm7k1j4el/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/17/32/061-26589-A_8GJTCGY9PC/25fhcu905eta7wau7aoafu8rvdm7k1j4el/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/17/32/061-26589-A_8GJTCGY9PC/25fhcu905eta7wau7aoafu8rvdm7k1j4el/RecoveryHDMetaDmg.pkg
+
+061-86291
+2020-03-23 21:41:00 +0000
+macOS Catalina 10.15.3 19D2064
+https://swcdn.apple.com/content/downloads/01/28/061-86291-A_JPEIWIOZES/enpozvvbmj3mj2dhulhevlt8b429qd5kw0/InstallAssistantAuto.pkg
+https://swcdn.apple.com/content/downloads/01/28/061-86291-A_JPEIWIOZES/enpozvvbmj3mj2dhulhevlt8b429qd5kw0/InstallESDDmg.pkg
+https://swcdn.apple.com/content/downloads/01/28/061-86291-A_JPEIWIOZES/enpozvvbmj3mj2dhulhevlt8b429qd5kw0/RecoveryHDMetaDmg.pkg
+
+072-08251
+2025-02-03 18:13:20 +0000
+macOS Sequoia 15.3 24D60
+https://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallAssistant.pkg
+
+072-09024
+2024-11-04 18:20:33 +0000
+macOS Ventura 13.7.1 22H221
+https://swcdn.apple.com/content/downloads/29/47/072-09024-A_8G5EY3SPX2/l6ecgngkrhhbc6q4mae5cwe42pxp49co7w/InstallAssistant.pkg
+
+072-09041
+2024-11-04 18:19:38 +0000
+macOS Sonoma 14.7.1 23H222
+https://swcdn.apple.com/content/downloads/12/44/072-09041-A_ZYPP05KKXT/jpuuhsha7r52g4p867qvcdfaugaloimbgh/InstallAssistant.pkg
+
+072-12295
+2024-10-30 17:10:01 +0000
+macOS Sequoia 15.1 24B2083
+https://swcdn.apple.com/content/downloads/09/57/072-12295-A_E6ZJOV0DG7/55hn1tc1t2rk1g4mmb6l7z3ac6cippqfq0/InstallAssistant.pkg
+
+072-12353
+2024-10-28 15:29:53 +0000
+macOS Sequoia 15.1 24B83
+https://swcdn.apple.com/content/downloads/08/08/072-12353-A_IUBHH68MQT/sv48ma68gmhl96fa9anqfj3i2fnb1ur2wh/InstallAssistant.pkg
+
+072-29965
+2024-11-19 18:13:40 +0000
+macOS Sequoia 15.1.1 24B2091
+https://swcdn.apple.com/content/downloads/14/63/072-29965-A_JR3Q5P9LW7/qtu6yl2s14vidrhfnunfi1t7wid5dzxajm/InstallAssistant.pkg
+
+072-30111
+2024-11-19 18:12:40 +0000
+macOS Sequoia 15.1.1 24B91
+https://swcdn.apple.com/content/downloads/21/19/072-30111-A_4V7Y0VVH1Q/ie1hmy1uaj094z769s4zqmdaojp2vk4dkj/InstallAssistant.pkg
+
+072-36705
+2024-12-11 18:36:40 +0000
+macOS Sonoma 14.7.2 23H311
+https://swcdn.apple.com/content/downloads/36/56/072-36705-A_FT40OBTKOY/qlf8amkb6ym29f9zobl2y6vuusd87visbr/InstallAssistant.pkg
+
+072-36728
+2024-12-11 18:37:31 +0000
+macOS Ventura 13.7.2 22H313
+https://swcdn.apple.com/content/downloads/51/51/072-36728-A_N5X8ANWQ9J/l4lowuoc3s3tj1et0c2qphkdpu9qznon7k/InstallAssistant.pkg
+
+072-44286
+2024-12-11 18:38:30 +0000
+macOS Sequoia 15.2 24C101
+https://swcdn.apple.com/content/downloads/52/42/072-44286-A_45NJHEFEDY/nxk2stn9edtjgfr3dqsh046dx4ti2h7w2s/InstallAssistant.pkg
+
+072-61270
+2025-02-03 18:14:05 +0000
+macOS Ventura 13.7.3 22H417
+https://swcdn.apple.com/content/downloads/14/61/072-61270-A_NBOSNJCOJ7/by1ws0ryjhu2n9sn89pzeutirzkmx78mm5/InstallAssistant.pkg
+
+072-61299
+2025-02-03 18:14:05 +0000
+macOS Sonoma 14.7.3 23H417
+https://swcdn.apple.com/content/downloads/43/40/072-61299-A_Y6TZ03D5E8/dpzudbub2uj7lqy3cko50k4moqsu2lq5ui/InstallAssistant.pkg
