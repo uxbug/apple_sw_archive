@@ -1,0 +1,60 @@
+# This workflow will build a Swift project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-swift
+
+name: Swift
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  run-swift-and-push:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: '6.1.0'
+
+      - name: Save old swinfo.txt
+        run: | 
+          cp swinfo.txt swinfo.txt.old || touch swinfo.txt.old
+
+      - name: Run Swift script
+        run: |
+          swift swrun.swift > swinfo.txt
+
+      - name: Compare swinfo.txt with repository version
+        id: diff
+        run: |
+          if ! cmp -s swinfo.txt swinfo.txt.old; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set up Git
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push swinfo.txt if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git add swinfo.txt
+          git commit -m "Update swinfo.txt from Swift script"
+          git push
+
+      - name: Create Release with updated txt
+        if: steps.diff.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: monthly-release-${{ github.run_id }}
+          name: Monthly Release ${{ github.run_id }}
+          body: "Automated release of updated swinfo.txt"
+          files: swinfo.txt
