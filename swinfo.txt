@@ -489,3 +489,18 @@ https://swcdn.apple.com/content/downloads/03/49/082-85709-A_OVYS4G5L94/y1wfe9zpa
 macOS Ventura 13.7.7 22H722
 https://swcdn.apple.com/content/downloads/12/28/082-87267-A_WGJHPIPC6Q/e982ujmntb0d6l44kjd20dc5thmk1ynorw/InstallAssistant.pkg
 
+093-10756
+2025-08-27 17:08:15 +0000
+macOS Sequoia 15.6.1 24G90
+https://swcdn.apple.com/content/downloads/26/59/093-10756-A_RD5LVY0R3G/7a96asv0xoamt1fk0xxnqy8jffdyauooaq/InstallAssistant.pkg
+
+093-22004
+2025-08-27 17:09:43 +0000
+macOS Ventura 13.7.8 22H730
+https://swcdn.apple.com/content/downloads/09/46/093-22004-A_QNZEDC334I/phigx2zvoggml6sh79my4y51fnvgy8hix4/InstallAssistant.pkg
+
+093-22120
+2025-08-27 17:08:57 +0000
+macOS Sonoma 14.7.8 23H730
+https://swcdn.apple.com/content/downloads/22/09/093-22120-A_SNSS23POX3/je630e1ftvi88tqvq9jxcgfb5tn9tdrsme/InstallAssistant.pkg
+
