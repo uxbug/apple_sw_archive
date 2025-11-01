@@ -479,6 +479,11 @@ https://swcdn.apple.com/content/downloads/53/29/082-42388-A_LTM5K4K83B/kzw5ogsws
 macOS Sequoia 15.5 24F74
 https://swcdn.apple.com/content/downloads/51/28/082-44432-A_4NJSZXK8G5/v10fo5dlwd50fja3qbnhj7z9tp1dx41vq2/InstallAssistant.pkg
 
+082-71738
+2025-10-18 01:14:59 +0000
+macOS Tahoe 26.0 25A8353
+https://swcdn.apple.com/content/downloads/04/39/082-71738-A_TBX8Q9I17N/8qtm9z10of6zskcywb7gn21cctqxwqartj/InstallAssistant.pkg
+
 082-85709
 2025-08-05 17:22:48 +0000
 macOS Sonoma 14.7.7 23H723
@@ -518,6 +523,11 @@ https://swcdn.apple.com/content/downloads/17/41/093-34000-A_IVOM0TNC43/plnlr5g9h
 2025-09-15 17:24:54 +0000
 macOS Tahoe 26.0 25A354
 https://swcdn.apple.com/content/downloads/26/38/093-37779-A_Y4733G5GHI/adlxnkoqzyrrzfl1r5krg7ql0cod8vpl5e/InstallAssistant.pkg
+
+093-49299
+2025-10-20 20:57:24 +0000
+macOS Tahoe 26.0.1 25A8364
+https://swcdn.apple.com/content/downloads/37/03/093-49299-A_MZ8OHDOFLQ/d8m9w3lyshl2vrb2u1h1peyjrazmx1jrzt/InstallAssistant.pkg
 
 093-50844
 2025-09-29 17:18:15 +0000
